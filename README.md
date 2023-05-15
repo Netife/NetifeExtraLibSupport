@@ -1,0 +1,2 @@
+# NetifeExtraLibSupport
+Netife第三方扩展组件，支持通过gRpc的方式与Netife Dispatcher进行高自由度的通信
